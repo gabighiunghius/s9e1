@@ -1,0 +1,6 @@
+C:\wantsome\InsertPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.config
+C:\wantsome\InsertPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe
+C:\wantsome\InsertPublisherApp\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.pdb
+C:\wantsome\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csprojAssemblyReference.cache
+C:\wantsome\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.exe
+C:\wantsome\InsertPublisherApp\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.pdb

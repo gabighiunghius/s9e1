@@ -1,0 +1,6 @@
+C:\wantsome\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe.config
+C:\wantsome\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.exe
+C:\wantsome\InsertPublisherApp\InsertPublisherApp\bin\Debug\InsertPublisherApp.pdb
+C:\wantsome\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.csprojAssemblyReference.cache
+C:\wantsome\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.exe
+C:\wantsome\InsertPublisherApp\InsertPublisherApp\obj\Debug\InsertPublisherApp.pdb
